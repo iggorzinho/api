@@ -1,6 +1,7 @@
 {
-  "los": [
-    {
+  "los": {
+    "lista": [
+      {
       "login": "01",
       "data_os": "-",
       "motivo": "-",
@@ -35,6 +36,8 @@
       "board": 16,
       "port": 8,
       "id_assunto": ""
-    }
-  ]
+      }
+    ]
+  }
 }
+
