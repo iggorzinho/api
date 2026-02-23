@@ -7,7 +7,7 @@
         "motivo": "-",
         "serial": "4E42454CB158978F1",
         "olt_nome": "ITAMARAJU",
-        "pon_id_full": "0/16/8 BNN_2_12",
+        "pon_id_full": "0/16/81 BNN_2_121",
         "pon_key": "ITAMARAJU 0/16/8",
         "board": 16,
         "port": 8,
@@ -19,7 +19,7 @@
         "motivo": "-",
         "serial": "4E42454CB158978F2",
         "olt_nome": "ITAMARAJU",
-        "pon_id_full": "0/16/8 BNN_2_12",
+        "pon_id_full": "0/16/81 BNN_2_121",
         "pon_key": "ITAMARAJU 0/16/8",
         "board": 16,
         "port": 8,
@@ -31,7 +31,7 @@
         "motivo": "-",
         "serial": "4E42454CB158978F3",
         "olt_nome": "ITAMARAJU",
-        "pon_id_full": "0/16/8 BNN_2_12",
+        "pon_id_full": "0/16/81 BNN_2_121",
         "pon_key": "ITAMARAJU 0/16/8",
         "board": 16,
         "port": 8,
@@ -1954,6 +1954,7 @@
   ]
 
 }
+
 
 
 
