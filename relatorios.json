@@ -2,221 +2,41 @@
   "los": {
     "lista": [
       {
-        "login": "lilianessnovaespi1",
+        "login": "01",
         "data_os": "-",
         "motivo": "-",
-        "serial": "4857544332F06AAE1",
-        "olt_nome": "TEIXEIRA1",
-        "pon_id_full": "0/14/15 UL_6_9",
-        "pon_key": "TEIXEIRA1 0/14/15",
-        "board": 14,
-        "port": 15,
-        "id_assunto": ""
-      },
-            {
-        "login": "lilianessnovaespi2",
-        "data_os": "-",
-        "motivo": "-",
-        "serial": "4857544332F06AAE2",
-        "olt_nome": "TEIXEIRA1",
-        "pon_id_full": "0/14/15 UL_6_9",
-        "pon_key": "TEIXEIRA1 0/14/15",
-        "board": 14,
-        "port": 15,
-        "id_assunto": ""
-      },
-            {
-        "login": "lilianessnovaespi3",
-        "data_os": "-",
-        "motivo": "-",
-        "serial": "4857544332F06AAE3",
-        "olt_nome": "TEIXEIRA1",
-        "pon_id_full": "0/14/15 UL_6_9",
-        "pon_key": "TEIXEIRA1 0/14/15",
-        "board": 14,
-        "port": 15,
-        "id_assunto": ""
-      },
-            {
-        "login": "lilianenovaespi",
-        "data_os": "-",
-        "motivo": "-",
-        "serial": "4857544332F06AAE",
-        "olt_nome": "TEIXEIRA1",
-        "pon_id_full": "0/14/11 UL_9_7",
-        "pon_key": "TEIXEIRA1 0/14/11",
-        "board": 14,
-        "port": 11,
-        "id_assunto": ""
-      },
-            {
-        "login": "lilianenovaespi",
-        "data_os": "-",
-        "motivo": "-",
-        "serial": "4857544332F06AAE",
-        "olt_nome": "TEIXEIRA1",
-        "pon_id_full": "0/14/11 UL_9_7",
-        "pon_key": "TEIXEIRA1 0/14/11",
-        "board": 14,
-        "port": 11,
-        "id_assunto": ""
-      },
-      {
-        "login": "05322829652",
-        "data_os": "21/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "54504C47B5479688",
-        "olt_nome": "TEIXEIRA1",
-        "pon_id_full": "0/12/8 CEN_1_35 TX",
-        "pon_key": "TEIXEIRA1 0/12/8",
-        "board": 12,
-        "port": 8,
-        "id_assunto": 346
-      },
-      {
-        "login": "lucasrangelgome",
-        "data_os": "-",
-        "motivo": "-",
-        "serial": "485754430207186A",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/5/10 PP_1_8",
-        "pon_key": "TEIXEIRA2 0/5/10",
-        "board": 5,
-        "port": 10,
-        "id_assunto": ""
-      },
-      {
-        "login": "caiodeoliveirab",
-        "data_os": "23/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "485754437AA649B1",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/19/1 KS2_1_7",
-        "pon_key": "TEIXEIRA2 0/19/1",
-        "board": 19,
-        "port": 1,
-        "id_assunto": 346
-      },
-            {
-        "login": "caiodeoliveirab",
-        "data_os": "23/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "485754437AA649B1",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/19/1 KS2_1_7",
-        "pon_key": "TEIXEIRA2 0/19/1",
-        "board": 19,
-        "port": 1,
-        "id_assunto": 346
-      },
-            {
-        "login": "caiodeoliveirab",
-        "data_os": "23/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "485754437AA649B1",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/19/1 KS2_1_7",
-        "pon_key": "TEIXEIRA2 0/19/1",
-        "board": 19,
-        "port": 1,
-        "id_assunto": 346
-      },
-            {
-        "login": "caiodeoliveirab",
-        "data_os": "23/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "485754437AA649B1",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/19/1 KS2_1_7",
-        "pon_key": "TEIXEIRA2 0/19/1",
-        "board": 19,
-        "port": 1,
-        "id_assunto": 346
-      },
-            {
-        "login": "caiodeoliveirab",
-        "data_os": "23/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "485754437AA649B1",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/19/1 KS2_1_7",
-        "pon_key": "TEIXEIRA2 0/19/1",
-        "board": 19,
-        "port": 1,
-        "id_assunto": 346
-      },
-      {
-        "login": "evento3",
-        "data_os": "-",
-        "motivo": "-",
-        "serial": "48575443B60D2CB4",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/19/15 SEMPORTA_T2",
-        "pon_key": "TEIXEIRA2 0/19/15",
-        "board": 19,
-        "port": 15,
-        "id_assunto": ""
-      },
-      {
-        "login": "11650085648",
-        "data_os": "11/02/2026",
-        "motivo": "RETENÇÃO - RETENÇÃO DE CANCELAMENTO - [RELACIONAMENTO] - (PROCESSO DE CANCELAMENTO)",
-        "serial": "54504C4754ED2D98",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/16/12 IMP_1_6",
-        "pon_key": "TEIXEIRA2 0/16/12",
-        "board": 16,
-        "port": 12,
-        "id_assunto": 142
-      },
-      {
-        "login": "96000031653",
-        "data_os": "-",
-        "motivo": "-",
-        "serial": "485754433ECBEEB2",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/5/0 SEMPORTA_T2",
-        "pon_key": "TEIXEIRA2 0/5/0",
-        "board": 5,
-        "port": 0,
-        "id_assunto": ""
-      },
-      {
-        "login": "08312764526",
-        "data_os": "23/02/2026",
-        "motivo": "SUPORTE - LOS - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "48575443C68056B1",
-        "olt_nome": "TEIXEIRA2",
-        "pon_id_full": "0/4/9 CDA_1_1",
-        "pon_key": "TEIXEIRA2 0/4/9",
-        "board": 4,
-        "port": 9,
-        "id_assunto": 212
-      },
-      {
-        "login": "itscomunicacao",
-        "data_os": "20/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "54504C47F39A1E1C",
-        "olt_nome": "ITAMARAJU",
-        "pon_id_full": "0/3/12 LD_2_8",
-        "pon_key": "ITAMARAJU 0/3/12",
-        "board": 3,
-        "port": 12,
-        "id_assunto": 346
-      },
-      {
-        "login": "62343475504",
-        "data_os": "20/02/2026",
-        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
-        "serial": "4E42454CB158978F",
+        "serial": "4E42454CB158978F1",
         "olt_nome": "ITAMARAJU",
         "pon_id_full": "0/16/8 BNN_2_12",
         "pon_key": "ITAMARAJU 0/16/8",
         "board": 16,
         "port": 8,
-        "id_assunto": 346
-      }
+        "id_assunto": ""
+       },
+            {
+        "login": "02",
+        "data_os": "-",
+        "motivo": "-",
+        "serial": "4E42454CB158978F2",
+        "olt_nome": "ITAMARAJU",
+        "pon_id_full": "0/16/8 BNN_2_12",
+        "pon_key": "ITAMARAJU 0/16/8",
+        "board": 16,
+        "port": 8,
+        "id_assunto": ""
+       },
+            {
+        "login": "03",
+        "data_os": "-",
+        "motivo": "-",
+        "serial": "4E42454CB158978F3",
+        "olt_nome": "ITAMARAJU",
+        "pon_id_full": "0/16/8 BNN_2_12",
+        "pon_key": "ITAMARAJU 0/16/8",
+        "board": 16,
+        "port": 8,
+        "id_assunto": ""
+       },
     ],
     "alertas": [],
     "total_afetados": 0,
@@ -2134,6 +1954,7 @@
   ]
 
 }
+
 
 
 
