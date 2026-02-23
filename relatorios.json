@@ -5,9 +5,9 @@
       "login": "01",
       "data_os": "-",
       "motivo": "-",
-      "serial": "4E42454CB158978F1",
+      "serial": "4E42454CB158978F11",
       "olt_nome": "ITAMARAJU",
-      "pon_id_full": "0/16/81 BNN_2_12",
+      "pon_id_full": "0/16/81 BNN_2_11",
       "pon_key": "ITAMARAJU 0/16/81",
       "board": 16,
       "port": 8,
@@ -17,9 +17,9 @@
       "login": "02",
       "data_os": "-",
       "motivo": "-",
-      "serial": "4E42454CB158978F2",
+      "serial": "4E42454CB158978F21",
       "olt_nome": "ITAMARAJU",
-      "pon_id_full": "0/16/81 BNN_2_12",
+      "pon_id_full": "0/16/81 BNN_2_11",
       "pon_key": "ITAMARAJU 0/16/81",
       "board": 16,
       "port": 8,
@@ -29,9 +29,9 @@
       "login": "03",
       "data_os": "-",
       "motivo": "-",
-      "serial": "4E42454CB158978F3",
+      "serial": "4E42454CB158978F31",
       "olt_nome": "ITAMARAJU",
-      "pon_id_full": "0/16/81 BNN_2_12",
+      "pon_id_full": "0/16/81 BNN_2_11",
       "pon_key": "ITAMARAJU 0/16/81",
       "board": 16,
       "port": 8,
@@ -40,4 +40,5 @@
     ]
   }
 }
+
 
