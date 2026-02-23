@@ -57,13 +57,59 @@
         "olt_nome": "TEIXEIRA2",
         "pon_id_full": "0/5/10 PP_1_8",
         "pon_key": "TEIXEIRA2 0/5/10",
-         "pon_key": "TEIXEIRA2 0/5/10",
-         "pon_key": "TEIXEIRA2 0/5/10",
         "board": 5,
         "port": 10,
         "id_assunto": ""
       },
       {
+        "login": "caiodeoliveirab",
+        "data_os": "23/02/2026",
+        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
+        "serial": "485754437AA649B1",
+        "olt_nome": "TEIXEIRA2",
+        "pon_id_full": "0/19/1 KS2_1_7",
+        "pon_key": "TEIXEIRA2 0/19/1",
+        "board": 19,
+        "port": 1,
+        "id_assunto": 346
+      },
+            {
+        "login": "caiodeoliveirab",
+        "data_os": "23/02/2026",
+        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
+        "serial": "485754437AA649B1",
+        "olt_nome": "TEIXEIRA2",
+        "pon_id_full": "0/19/1 KS2_1_7",
+        "pon_key": "TEIXEIRA2 0/19/1",
+        "board": 19,
+        "port": 1,
+        "id_assunto": 346
+      },
+            {
+        "login": "caiodeoliveirab",
+        "data_os": "23/02/2026",
+        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
+        "serial": "485754437AA649B1",
+        "olt_nome": "TEIXEIRA2",
+        "pon_id_full": "0/19/1 KS2_1_7",
+        "pon_key": "TEIXEIRA2 0/19/1",
+        "board": 19,
+        "port": 1,
+        "id_assunto": 346
+      },
+            {
+        "login": "caiodeoliveirab",
+        "data_os": "23/02/2026",
+        "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
+        "serial": "485754437AA649B1",
+        "olt_nome": "TEIXEIRA2",
+        "pon_id_full": "0/19/1 KS2_1_7",
+        "pon_key": "TEIXEIRA2 0/19/1",
+        "board": 19,
+        "port": 1,
+        "id_assunto": 346
+      },
+            {
         "login": "caiodeoliveirab",
         "data_os": "23/02/2026",
         "motivo": "SUPORTE - LOS IDENTIFICAÇÃO INTERNA - [OPERACIONAL] - (PROCESSO DE SUPORTE)",
@@ -2064,6 +2110,7 @@
   ]
 
 }
+
 
 
 
