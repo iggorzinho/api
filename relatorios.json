@@ -120,10 +120,47 @@
       "board": 16,
       "port": 8,
       "id_assunto": ""
+      },
+                      {
+      "login": "03",
+      "data_os": "-",
+      "motivo": "-",
+      "serial": "1",
+      "olt_nome": "ITAMARAJU",
+      "pon_id_full": "0/16/82 BNN_1_4",
+      "pon_key": "ITAMARAJU 0/16/82",
+      "board": 16,
+      "port": 8,
+      "id_assunto": ""
+      },
+                      {
+      "login": "03",
+      "data_os": "-",
+      "motivo": "-",
+      "serial": "2",
+      "olt_nome": "ITAMARAJU",
+      "pon_id_full": "0/16/82 BNN_2_3",
+      "pon_key": "ITAMARAJU 0/16/82",
+      "board": 16,
+      "port": 8,
+      "id_assunto": ""
+      },
+                      {
+      "login": "03",
+      "data_os": "-",
+      "motivo": "-",
+      "serial": "3",
+      "olt_nome": "ITAMARAJU",
+      "pon_id_full": "0/16/82 BNN_3_4",
+      "pon_key": "ITAMARAJU 0/16/82",
+      "board": 16,
+      "port": 8,
+      "id_assunto": ""
       }
     ]
   }
 }
+
 
 
 
