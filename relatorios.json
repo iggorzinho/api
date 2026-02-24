@@ -1,45 +1,11 @@
 {
   "los": {
     "lista": [
-      {
-      "login": "01",
-      "data_os": "-",
-      "motivo": "-",
-      "serial": "001",
-      "olt_nome": "ITAMARAJU",
-      "pon_id_full": "0/16/81 BNN_2_11",
-      "pon_key": "ITAMARAJU 0/16/81",
-      "board": 16,
-      "port": 8,
-      "id_assunto": ""
-    },
-            {
-      "login": "01",
-      "data_os": "-",
-      "motivo": "-",
-      "serial": "002",
-      "olt_nome": "ITAMARAJU",
-      "pon_id_full": "0/16/81 BNN_2_14",
-      "pon_key": "ITAMARAJU 0/16/81",
-      "board": 16,
-      "port": 8,
-      "id_assunto": ""
-    },
-            {
-      "login": "01",
-      "data_os": "-",
-      "motivo": "-",
-      "serial": "003",
-      "olt_nome": "ITAMARAJU",
-      "pon_id_full": "0/16/81 BNN_2_12",
-      "pon_key": "ITAMARAJU 0/16/81",
-      "board": 16,
-      "port": 8,
-      "id_assunto": ""
-    }
+
     ]
   }
 }
+
 
 
 
