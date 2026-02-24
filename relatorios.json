@@ -5,7 +5,7 @@
       "login": "01",
       "data_os": "-",
       "motivo": "-",
-      "serial": "100",
+      "serial": "101",
       "olt_nome": "ITAMARAJU",
       "pon_id_full": "0/16/81 BNN_2_11",
       "pon_key": "ITAMARAJU 0/16/81",
@@ -17,7 +17,7 @@
       "login": "02",
       "data_os": "-",
       "motivo": "-",
-      "serial": "200",
+      "serial": "201",
       "olt_nome": "ITAMARAJU",
       "pon_id_full": "0/16/81 BNN_2_11",
       "pon_key": "ITAMARAJU 0/16/81",
@@ -29,7 +29,7 @@
       "login": "03",
       "data_os": "-",
       "motivo": "-",
-      "serial": "300",
+      "serial": "301",
       "olt_nome": "ITAMARAJU",
       "pon_id_full": "0/16/81 BNN_2_11",
       "pon_key": "ITAMARAJU 0/16/81",
@@ -40,6 +40,7 @@
     ]
   }
 }
+
 
 
 
